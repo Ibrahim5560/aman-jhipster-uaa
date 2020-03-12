@@ -27,7 +27,7 @@
     "languages": ["ar-ly", "en"],
     "clientFramework": "angularX",
     "jhiPrefix": "jhi",
-    "jhipsterVersion": "6.8.0",
+    "jhipsterVersion": "6.6.0",
     "jwtSecretKey": "NDU3MTM0NjQ1MjhiZWNkNjcxNmNjY2RmOGZlMjViMDdjYTQzMjM2OTljNWE1NjYyOGVjYjFjNWMwMWYxMDRjOWY0ZmY0N2VkNDUyNjZlZmNmMDMxZmFkYTNiNjVjYzIwNTMyODUwMDdlMTRjODBjZjFhMGYyNDUyNjFjYmMzNmQ=",
     "embeddableLaunchScript": false,
     "creationTimestamp": 1584013667778,
